@@ -54,25 +54,5 @@ function hotelCost(day){
         }
     }
 }
-var a = megaFriend['ab', 'bcd', 'abcd'];
-console.log(a);
 
-
-/*function megaFriend(array){
-    var bigName= array[0];
-    for(var i = 0; i = array.length; i++ )
-    {
-       var x=0;
-        if(x<array[i].length){
-            x=array[i].length;
-            return array[i];
-        }
-        else{
-            y=0;
-        }
-    }
-    return bigName;
-}
-var max= megaFriend(['a','bc','abc']);
-console.log (max);
 
