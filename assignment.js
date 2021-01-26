@@ -43,7 +43,7 @@ function hotelCost(day){
 
 
 //Assignment problem 4//
-/function megaFriend(friends[""]){
+function megaFriend(friends['']){
     var nme= friends[0];
     for(var i=0, i=friends.length, i++ ){
         if(nme<friends[i]){
